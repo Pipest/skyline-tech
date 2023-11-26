@@ -1,0 +1,65 @@
+.container {
+  width: 90%;
+  margin: auto;
+}
+
+.container h1 {
+  background-color: dodgerblue;
+  width: 50%;
+  margin: auto;
+  color: white;
+  border-radius: 10px;
+  text-align: center;
+  padding: 10px;
+  text-transform: capitalize;
+}
+
+table {
+  width: 80%;
+  margin: auto;
+  margin-top: 50px;
+  font-size: 16px;
+}
+
+table,
+td,
+th {
+  border: 1px solid;
+  border-collapse: collapse;
+  border-color: #fff;
+}
+
+th,
+td {
+  padding: 8px;
+}
+
+th {
+  background-color: orange;
+  color: white;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+
+td {
+  text-align: center;
+  padding: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+tr:nth-child(odd) {
+  background-color: #f2f2f2;
+}
+
+tr:hover {
+  background-color: grey;
+  cursor: pointer;
+}
+
+button {
+  background-color: white;
+  border: 1px solid orange;
+  padding: 5px 10px;
+  cursor: pointer;
+}
