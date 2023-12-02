@@ -1,7 +1,7 @@
 # skyline-tech
-This is an assignment for table1
+This is an assignment for table2
 
 # Funtionality
 
-This table shows the individual performance in cohort 8
+This table shows the names, passcode of all cohort 8 members
 
